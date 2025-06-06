@@ -1,8 +1,5 @@
 # COMCEN AI Chatbot Customer Support Demo
 
-![Chatbot UI Screenshot 1](./COMCEN_Customer_Support-1.png)
-![Chatbot UI Screenshot 2](./COMCEN_Customer_Support-2.png)
-
 ## Overview
 
 This is a demo application for a customer support AI chatbot named **COMCEN**. The chatbot interacts with users in real-time to assist with tasks such as **e-Invoice submission troubleshooting** and more.
@@ -34,11 +31,11 @@ This is a demo application for a customer support AI chatbot named **COMCEN**. T
 
 ### Chat UI
 
-![Chat Start](./COMCEN Customer Support-1.png)
+![Chat Start](./COMCEN_Customer_Support-1.png)
 
 ### Chat Interaction with AI
 
-![Chat Response](./COMCEN Customer Support-2.png)
+![Chat Response](./COMCEN_Customer_Support-2.png)
 
 ---
 
