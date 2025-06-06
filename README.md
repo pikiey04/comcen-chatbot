@@ -1,75 +1,45 @@
-# Nuxt Minimal Starter
+# COMCEN AI Chatbot Customer Support Demo
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![Chatbot UI Screenshot 1](./COMCEN Customer Support-1.png)
+![Chatbot UI Screenshot 2](./COMCEN Customer Support-2.png)
 
-## Setup
+## Overview
 
-Make sure to install dependencies:
+This is a demo application for a customer support AI chatbot named **COMCEN**. The chatbot interacts with users in real-time to assist with tasks such as **e-Invoice submission troubleshooting** and more.
 
-```bash
-# npm
-npm install
+## Tech Stack
 
-# pnpm
-pnpm install
+- **Frontend Framework**: [Nuxt.js](https://nuxt.com/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Backend**: Nuxt server API routes
+- **AI Integration**: OpenAI SDK (Assistant API)
+- **Learning Source**: Custom PDF guides used to instruct the AI assistant
 
-# yarn
-yarn install
+## Features
 
-# bun
-bun install
-```
+- 🔹 Real-time customer support chat interface
+- 🔹 AI assistant built using OpenAI Assistant API
+- 🔹 Custom instruction for assistant with PDF documentation
+- 🔹 User-friendly UI built with TailwindCSS
+- 🔹 Dynamic API routes in Nuxt for `GET` and `POST` interaction with OpenAI
 
-## Development Server
+## Instructions
 
-Start the development server on `http://localhost:3000`:
+1. Clone the repository and install dependencies.
+2. Set up your OpenAI API key in environment variables.
+3. Upload the PDF guide used to train the assistant.
+4. Run the Nuxt server locally or deploy using services like Vercel or Netlify.
 
-```bash
-# npm
-npm run dev
+## Screenshots
 
-# pnpm
-pnpm dev
+### Chat UI
 
-# yarn
-yarn dev
+![Chat Start](./COMCEN Customer Support-1.png)
 
-# bun
-bun run dev
-```
+### Chat Interaction with AI
 
-## Production
+![Chat Response](./COMCEN Customer Support-2.png)
 
-Build the application for production:
+---
 
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+> This project showcases the potential of integrating AI with modern web technologies for smart and automated customer support solutions.
