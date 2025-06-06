@@ -1,7 +1,7 @@
 # COMCEN AI Chatbot Customer Support Demo
 
-![Chatbot UI Screenshot 1](./COMCEN Customer Support-1.png)
-![Chatbot UI Screenshot 2](./COMCEN Customer Support-2.png)
+![Chatbot UI Screenshot 1](./COMCEN_Customer_Support-1.png)
+![Chatbot UI Screenshot 2](./COMCEN_Customer_Support-2.png)
 
 ## Overview
 
